@@ -4,6 +4,8 @@
 
 I'm an AI Engineer with strong experience in Python, Computer Vision, and Backend Development. I specialize in building AI solutions, particularly for backend operations in industries like finance and mortgage technology. My journey includes roles as a Python Product Support Engineer and participation in various AI projects at Prudent AI, where I supported machine learning implementations and backend development.
 
+---
+
 🛠 Skills:
 
 Programming Languages: Python, SQL
@@ -38,6 +40,7 @@ Tools: OpenCV, Python, YOLO.
 
 Delivered customized machine learning models for various clients in industries like manufacturing and finance.
 
+---
 
 🌱 Currently Learning:
 
@@ -45,11 +48,13 @@ Advanced NLP for customer support automation.
 
 CI/CD pipelines for deploying machine learning models.
 
+---
 
 🤝 Connect with Me:
 
 LinkedIn : https://www.linkedin.com/in/bragadeesh-s-46354051
 
+---
 
 📊 GitHub Stats:
 
